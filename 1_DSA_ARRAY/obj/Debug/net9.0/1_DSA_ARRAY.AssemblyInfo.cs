@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_DSA_ARRAY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e14a0e858a5848d69a2d8c7826bb2139efd5cc4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_DSA_ARRAY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_DSA_ARRAY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
